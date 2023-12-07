@@ -1,1 +1,0 @@
-/home/pkv/.config/polybar/launch.sh
